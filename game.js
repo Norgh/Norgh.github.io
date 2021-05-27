@@ -1,6 +1,7 @@
 import * as THREE from 'three.module.js'; // We import Three module, the 3D used
 import {GLTFLoader} from 'loaders/GLTFLoader.js'; // We import GLTF, used to import 3D models (player, obstacles)
 
+
 THREE.Cache.enabled = true; // Activate the cache, for less latencies
 
 let pausePersoRoad = 1; // Used to stop the ground and player when the game is paused, or over
