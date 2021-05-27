@@ -1,2 +1,0 @@
-# CiriousGame
-Projet Cirious Game
